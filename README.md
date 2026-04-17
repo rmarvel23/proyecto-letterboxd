@@ -34,11 +34,7 @@ Ejemplo de endpoint:
 
 ## 🔐 Autenticación
 
-Todas las peticiones requieren headers:
-
-```http
-apikey: YOUR_ANON_KEY
-Authorization: Bearer YOUR_ANON_KEY
+Todas las peticiones requieren headers. Para más información, leer documentación.
 
 📦 Endpoints principales
 📍 GET /watchlist
