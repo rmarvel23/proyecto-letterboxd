@@ -77,20 +77,7 @@ fetch("https://bsnxxxvvcphwarfkyocq.supabase.co/rest/v1/watchlist", {
 
 ---
 
-### 🔎 Filtros útiles
-?select=* → seleccionar campos
-?id=eq.1 → filtrar por ID
-?user_id=eq.xxx → filtrar por usuario
-?order=id.desc → ordenar resultados
-?limit=10 → limitar resultados
-🛠️ Tecnologías utilizadas
-Supabase
-PostgreSQL
-REST API (PostgREST)
-JavaScript (Fetch API)
----
-
-### 📌 Autor
+### 📌 Autora
 Rocío Martínez Veloso
 rmartinezveloso@gmail.com
 Data Engineer, QA y Tech Instructor
