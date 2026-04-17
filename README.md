@@ -53,12 +53,15 @@ Actualiza un registro existente.
 
 Elimina un registro.
 
-📚 Documentación completa
+----
+
+### 📚 Documentación completa
 
 Toda la documentación detallada de la API, ejemplos y estructura del proyecto está disponible aquí:
 
-👉 Ver documentación en Notion
+ 👉 Ver documentación en Notion
 https://www.notion.so/34533546561e805784c9df04ef1547f8?source=copy_link
+
 
 🧪 Ejemplo de uso (JavaScript)
 fetch("https://bsnxxxvvcphwarfkyocq.supabase.co/rest/v1/watchlist", {
@@ -70,7 +73,11 @@ fetch("https://bsnxxxvvcphwarfkyocq.supabase.co/rest/v1/watchlist", {
   .then(res => res.json())
   .then(data => console.log(data))
 
-🔎 Filtros útiles
+
+
+---
+
+### 🔎 Filtros útiles
 ?select=* → seleccionar campos
 ?id=eq.1 → filtrar por ID
 ?user_id=eq.xxx → filtrar por usuario
@@ -81,9 +88,9 @@ Supabase
 PostgreSQL
 REST API (PostgREST)
 JavaScript (Fetch API)
+---
 
-
-📌 Autor
+### 📌 Autor
 Rocío Martínez Veloso
 rmartinezveloso@gmail.com
 Data Engineer, QA y Tech Instructor
